@@ -34,6 +34,15 @@ The script provides example SQL queries for:
 - Theater details by screen ID.
 - User details by ticket ID.
 
+## Getting Started
+
+### Clone the Repository
+To get a local copy of this project, run:
+
+```sh
+git clone https://github.com/Apil120/DBS-GA.git
+```
+
 ## Usage
 1. **Run the SQL script** (`GA_SQL_CODE.sql`) in a MySQL-compatible database.
 2. The script will create the schema, tables, triggers, and insert sample data.
